@@ -1,1 +1,1 @@
-Hello Everybody, I am Arnavrc the pro java coder. In this repository of mine, I have stored my java programs.
+Hello everyone, I am Arnavrc the pro java coder. This repository contains my Java programs and practice projects. I am currently learning Java and using this repository to store and share the programs I create during my learning journey.
