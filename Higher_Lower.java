@@ -16,12 +16,14 @@ public class Higher_Lower {
 				System.out.println("You win!");
 			else
 				System.out.println("You lost!");
+			System.out.println("The no. was " + ran2);
 		}
 		else {
 			if(ran2 < ran1)
 				System.out.println("You win!");
 			else
 				System.out.println("You lost!");
+			System.out.println("The no. was " + ran2);
 		}
 	}
 }
